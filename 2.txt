@@ -1,0 +1,4 @@
+nasa has launches its second probe 
+zz
+:wq
+:w
